@@ -3,7 +3,7 @@ dlang-cpp-ideoms
 
 ##Ideoms
 
-- [duck typing]()
+- [duck typing](https://github.com/tanitta/dlang-cpp-ideoms/blob/master/ideoms/ducktyping.md)
 
 
 ##Contribution
